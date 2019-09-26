@@ -1,0 +1,15 @@
+{
+  "name": "e-tours-template",
+  "version": "1.0.0",
+  "description": "Lnading page for e-tours",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "node-sass sass/main.scss css/style.css -w"
+  },
+  "author": "Anas Bajjouk",
+  "license": "ISC",
+  "devDependencies": {
+    "node-sass": "^4.12.0"
+  },
+  "dependencies": {}
+}
