@@ -2,5 +2,6 @@
 
 Template made using:
 - HTML5
-- CSS3 - Sass Only
-- Responsive design 
+- CSS3/Sass Only
+- Responsive design
+- CSS lAYOUT: Floats
